@@ -1,0 +1,9 @@
+git+git://github.com/denisyarats/dmc2gym.git
+dm-control==0.0.322773188
+atari-py==0.2.6
+opencv-python
+tensorboardX
+tqdm
+pathlib
+pymongo
+ipdb

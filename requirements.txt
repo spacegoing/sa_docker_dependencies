@@ -1,5 +1,5 @@
 # atari-py==0.2.6 installed by gym
-git+git://github.com/denisyarats/dmc2gym.git
+git+https://github.com/denisyarats/dmc2gym.git
 dm-control==0.0.322773188
 opencv-python
 tensorboardX
